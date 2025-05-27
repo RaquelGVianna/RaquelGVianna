@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<div align="center">
- 
-![ILUM, CNPEM, MINISTÉRIO DA EDUCAÇÃO](https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172425065/6c9216ea-0cdb-4dac-aac5-445d505b2804)
- 
-</div>
-
 <!--
 **RaquelGVianna/RaquelGVianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
