@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is rachel and I am an undergraduate student at Ilum - CNPEM!
+I've been learning about Deep Learning - machine learning, neural networks and genetic algorithms! Feel free to explore my repositories, it'd be a pleasure if you could take a look at my work!
 
 <!--
 **RaquelGVianna/RaquelGVianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
