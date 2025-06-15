@@ -4,7 +4,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaquelGVianna&show_icons=true&theme=tokyonight&timestamp=123456789"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaquelGVianna&layout=compact&langs_count=7&theme=tokyonight&timestamp=123456789"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
 </div>
 
 ## Sobre mim 
